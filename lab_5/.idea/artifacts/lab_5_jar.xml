@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lab_5:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab_5_jar</output-path>
+    <root id="archive" name="lab_5.jar">
+      <element id="module-output" name="lab_5" />
+      <element id="library" level="project" name="byte-buddy-1.14.9" />
+      <element id="library" level="project" name="jar_files" />
+    </root>
+  </artifact>
+</component>

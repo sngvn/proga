@@ -1,0 +1,1 @@
+id=15; name=Концерт Паши Воли'; coordinates=Data.Coordinates@27fa135a; creationDate=Sun Apr 28 22:26:29 MSK 2024; price=100.0; comment='Пашка'; refundable=false; type=null; venue=Null

@@ -1,0 +1,4 @@
+id:12,name:Концерт Паши Воли,x:14.0,y:88.0,creationDate:2024-05-02 18:48:13,price:100.0,comment:Комментарий,refundable:false,type:null,venue:Null,
+id:72,name:Концерт Вани Абрамова,x:13.0,y:37.0,creationDate:2024-05-02 18:48:13,price:110.0,comment:Ванек Абрамов,refundable:false,type:null,venue:Null,
+id:84,name:Тачки,x:123.0,y:123.0,creationDate:2024-05-02 18:55:55,price:1234.0,comment:КЧАО,refundable:true,type:VIP,venueId:37,venueName:Синема парк,venueCapacity:500,venueType:CINEMA,
+id:54,name:4234,x:234.0,y:23.0,creationDate:2024-05-03 18:26:00,price:3843.0,comment:riofks,refundable:true,type:null,venue:Null,
