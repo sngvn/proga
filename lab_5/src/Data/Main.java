@@ -21,7 +21,7 @@ public class Main {
         if (args.length > 0){
             filePath = args[0];
         }
-        //filePath = "C:\\Users\\User\\Desktop\\docs\\ITMO\\java\\lab_5\\data.csv";
+        filePath = "C:\\Users\\User\\Desktop\\docs\\ITMO\\java\\lab_5\\data.csv";
         LinkedList<Ticket> list;
         try {
             list = provider.loadFromFile(filePath);

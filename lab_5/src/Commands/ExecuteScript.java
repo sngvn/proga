@@ -49,7 +49,7 @@ public class ExecuteScript extends Command{
                     argumentCommand = arguments[1];
 
                 Command command = commandManager.getCommand(commandName);
-                if(command.getClass().equals(ExecuteScript.class) && executeFileName.equals(argumentCommand) || list.contains(executeFileName)){
+                if((command.getClass().equals(ExecuteScript.class) && executeFileName.equals(argumentCommand)) || list.contains(executeFileName)){
                     System.out.println("Была попытка вызова рекурсии");
                     try {
                         line = executeScanner.nextLine();
